@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dip-to&label=Profile%20views&color=0e75b6&style=flat" alt="dip-to" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dip-to" alt="dip-to" /></a> </p>
 
 - 📫 How to reach me **mumtahin.mahmud2001@gmail.com**
 
